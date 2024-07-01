@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything software engineering
 - 🌱 I’m currently learning Software engineering
 - 💞️ I’m looking to collaborate on software engineering projects
-- 📫 Connect with me on LinkedIn at https://www.linkedin.com/in/winston-lamptey-30215416a/
+- 📫 Connect with me on LinkedIn at [https://www.linkedin.com/in/winston-lamptey/](https://www.linkedin.com/in/winston-lamptey/)
 
 <!---
 wynn-stan/wynn-stan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
